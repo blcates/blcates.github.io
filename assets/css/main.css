@@ -3414,6 +3414,11 @@ input, select, textarea {
 
 /* Intro */
 
+	#intro {
+		margin: 0 auto; /* Center the intro section horizontally */
+		text-align: center;
+	}
+
 	#intro .logo {
 		border-bottom: 0;
 		display: inline-block;
